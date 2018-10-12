@@ -1,5 +1,5 @@
 {
-  "name": "mobx-react-table-manager",
+  "name": "mobx-react-employee-manager",
   "version": "1.0.0",
   "description": "Boilerplate for MobX + React project with JSX, ES6 and decorator compilation",
   "scripts": {
