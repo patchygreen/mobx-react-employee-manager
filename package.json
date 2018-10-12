@@ -1,7 +1,7 @@
 {
   "name": "mobx-react-employee-manager",
   "version": "1.0.0",
-  "description": "Boilerplate for MobX + React project with JSX, ES6 and decorator compilation",
+  "description": "A simple employee manager table.",
   "scripts": {
     "start": "webpack-dev-server --hot --open",
     "lint": "eslint src"
@@ -13,15 +13,9 @@
   "keywords": [
     "react",
     "reactjs",
-    "boilerplate",
-    "mobx",
-    "starter-kit"
+    "mobx"
   ],
-  "author": "Michel Weststrate <mweststrate@gmail.com> (http://github.com/mweststrate)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mobxjs/mobx/issues"
-  },
   "homepage": "http://mobxjs.github.com/mobx",
   "devDependencies": {
     "babel-core": "^6.26.3",
